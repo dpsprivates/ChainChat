@@ -1,0 +1,6 @@
+{
+  "name": "Troopers",
+  "description": "An Instagram-inspired social platform for troopers. Share posts, view stories, chat with AI Trooper bots, and connect with the squad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
